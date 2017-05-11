@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="45ad92c1-02a1-4662-9784-0feb8ca1ee83">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыОперацийЧекККМ" category="Ref">
+				<xr:TypeId>a59367cf-32e3-419c-b95e-afe0c5becaa5</xr:TypeId>
+				<xr:ValueId>c90e6065-b0cf-4dec-8ad3-34649ee657b4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыОперацийЧекККМ" category="Manager">
+				<xr:TypeId>153f92cb-bad4-4c97-8753-3b6198124783</xr:TypeId>
+				<xr:ValueId>8ab877e8-fc6f-45b7-b0f3-b16bfdd9d358</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыОперацийЧекККМ" category="List">
+				<xr:TypeId>d460a35d-6fbc-4042-b8a2-d389ff5e2d8b</xr:TypeId>
+				<xr:ValueId>07331df2-1e4f-4af3-a981-3c2701f72602</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыОперацийЧекККМ</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="0ffba3d0-9a5d-4a40-ad51-744ca9a6ac35">
+				<Properties>
+					<Name>Продажа</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="65fe4b62-ba99-49eb-9f92-6ac423834147">
+				<Properties>
+					<Name>Возврат</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
