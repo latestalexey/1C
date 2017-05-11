@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<InformationRegister uuid="58bead8f-8a4c-4564-af1a-3473bc00dde9">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.НастройкиОбменаЕГАИС" category="Record">
+				<xr:TypeId>4bc16df7-dea8-4a38-a98a-4a89a427ea2b</xr:TypeId>
+				<xr:ValueId>adc4a5fe-fc21-4ff1-9901-8d133fda399d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.НастройкиОбменаЕГАИС" category="Manager">
+				<xr:TypeId>ba40ecf0-8aeb-44af-893c-689008b6c035</xr:TypeId>
+				<xr:ValueId>634e3615-eeb9-47f0-8c5d-e9d58c78d3f0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.НастройкиОбменаЕГАИС" category="Selection">
+				<xr:TypeId>f37d0e08-c1bd-4ebc-8796-0ecf8073035d</xr:TypeId>
+				<xr:ValueId>02a4df9b-287d-4228-8961-4795871a186e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.НастройкиОбменаЕГАИС" category="List">
+				<xr:TypeId>f6418eb1-8e17-4956-8ff7-644f57f9f3b8</xr:TypeId>
+				<xr:ValueId>3fc9f9d1-92ed-4b34-a178-09afeffd7eec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.НастройкиОбменаЕГАИС" category="RecordSet">
+				<xr:TypeId>631eb87b-d9ea-436b-b032-19320b4ded70</xr:TypeId>
+				<xr:ValueId>e6fe7ef5-648f-43b3-ab23-12d474578240</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.НастройкиОбменаЕГАИС" category="RecordKey">
+				<xr:TypeId>10754b6d-aa83-4d3b-a77f-3cd8d800a2fd</xr:TypeId>
+				<xr:ValueId>dd6dd231-5143-4647-a22d-f86356eadbf4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.НастройкиОбменаЕГАИС" category="RecordManager">
+				<xr:TypeId>68707c81-f61c-4d5f-bf86-be19e541e89e</xr:TypeId>
+				<xr:ValueId>a4a7c9ca-7dc9-4838-aa9c-e0d81b59367e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>НастройкиОбменаЕГАИС</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="85ca481d-1c4b-4ced-9ff6-77b4ea2926c2">
+				<Properties>
+					<Name>АдресУТМ</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="42155378-c93d-4340-9347-8b739227335f">
+				<Properties>
+					<Name>ПортУТМ</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>6</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="f682a751-5258-4a28-b1c6-f3d9b9a9a444">
+				<Properties>
+					<Name>Организация</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+			<Dimension uuid="826798a0-e8a6-4f33-938d-2b5fe87e57e3">
+				<Properties>
+					<Name>РабочееМесто</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.РабочиеМеста</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

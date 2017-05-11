@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Catalog uuid="68eacbfc-d18e-4223-bf5b-9b67ae97aa22">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДоговорыПлатежныхАгентов" category="Object">
+				<xr:TypeId>6e66876d-123c-4f46-9a8b-8211c324513b</xr:TypeId>
+				<xr:ValueId>6e554143-ed41-4696-a1f2-132695cc4f43</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДоговорыПлатежныхАгентов" category="Ref">
+				<xr:TypeId>b2f439d5-23e4-4034-a5ba-0c471546a62f</xr:TypeId>
+				<xr:ValueId>a17e88dc-8d7d-4b4c-b9a9-9db8b30892c1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДоговорыПлатежныхАгентов" category="Selection">
+				<xr:TypeId>bb2c0ff6-5538-4710-81d6-c33ecdf9865f</xr:TypeId>
+				<xr:ValueId>278df350-2c4d-49e9-86fd-42a40b015a11</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДоговорыПлатежныхАгентов" category="List">
+				<xr:TypeId>719d3276-77be-4c38-b033-afc4accd71bf</xr:TypeId>
+				<xr:ValueId>72969161-ef5c-4dba-872e-08e2821b948a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДоговорыПлатежныхАгентов" category="Manager">
+				<xr:TypeId>ab23eafd-c720-4431-a4a9-2ae6f8811211</xr:TypeId>
+				<xr:ValueId>201cf423-9e4d-4a46-a3cc-59f8c0d5e6df</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДоговорыПлатежныхАгентов</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

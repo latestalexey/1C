@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Catalog uuid="7c4dd34d-6417-4b38-8793-117dbf9c4e21">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПалитраБыстрыхТоваров" category="Object">
+				<xr:TypeId>4a4ad2f0-dbff-41d8-8055-c575cb46cf83</xr:TypeId>
+				<xr:ValueId>123c9b91-65a8-4115-9922-a8ca4eb495a4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПалитраБыстрыхТоваров" category="Ref">
+				<xr:TypeId>cbcf7828-a336-44ae-8888-829d58c64b2c</xr:TypeId>
+				<xr:ValueId>e3209c8d-47f3-4e94-98db-94a8ae4ca759</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПалитраБыстрыхТоваров" category="Selection">
+				<xr:TypeId>3fe90ff3-d80e-41ec-98e9-3a449f6ca2b2</xr:TypeId>
+				<xr:ValueId>7ba4e7fc-633a-49e0-bd3e-532f49bc95fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПалитраБыстрыхТоваров" category="List">
+				<xr:TypeId>ad3fbf25-10d5-4c4a-bff9-bbf041de3314</xr:TypeId>
+				<xr:ValueId>27d9286d-e3e1-4e30-9e19-666d897c2931</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПалитраБыстрыхТоваров" category="Manager">
+				<xr:TypeId>077c15ad-3f37-4de1-b43e-096f7f533a77</xr:TypeId>
+				<xr:ValueId>e93a3268-4e86-4856-b312-0ac2a6cf0d4a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПалитраБыстрыхТоваров</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

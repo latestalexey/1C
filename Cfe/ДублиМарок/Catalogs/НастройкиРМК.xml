@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Catalog uuid="1599d343-e73c-4748-a776-dd0e47a7f3b5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиРМК" category="Object">
+				<xr:TypeId>fd869717-817e-4c3a-a29a-de92146fa469</xr:TypeId>
+				<xr:ValueId>22b6004f-07c1-42d4-8570-d6b31bd704b5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиРМК" category="Ref">
+				<xr:TypeId>cc52373c-eb11-4320-a564-2c6ce74661ba</xr:TypeId>
+				<xr:ValueId>5e92d861-c178-4040-897a-6fad6253b7b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиРМК" category="Selection">
+				<xr:TypeId>ef2d0045-2614-4672-bc81-149d8dd4d9c1</xr:TypeId>
+				<xr:ValueId>7c08c358-2501-44c0-a6c9-da774374f48d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиРМК" category="List">
+				<xr:TypeId>fb93c679-3253-40cd-abbe-770a68d74361</xr:TypeId>
+				<xr:ValueId>ffdb1459-6f96-4162-89ad-ad0e6d5a0f40</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиРМК" category="Manager">
+				<xr:TypeId>70224380-e91e-4d52-8cb4-8f24ae0eb774</xr:TypeId>
+				<xr:ValueId>22eb75bb-2509-4dcf-92e4-74de46c7a0ca</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>НастройкиРМК</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
